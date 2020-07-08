@@ -58,6 +58,7 @@ to add your name to the list below (in alphabetical order).
 * Damien Thomine (Université Paris-Saclay at Orsay, FR)
 * Adam Topaz (University of Alberta, CA)
 * Eloi Torrents (Universitat Politècnica de Catalunya, CAT)
+* Amos Turchet (Scuola Normale Superiore, IT)
 * David Wärn (University of Cambridge, UK)
 * Miguel Raz Guzmán Macedo (Universidad Nacional Autónoma de México, Facultad de Ciencias, MX)
 * Dan Stanescu (University of Wyoming, US)
